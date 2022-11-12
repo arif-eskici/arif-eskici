@@ -1,7 +1,7 @@
 
 <h1 align="center"> 👋 Hi, I'm Arif</h1>
 
-<h3 align="center">I'm an Aeronautical Engineer and Software Developer </h3>
+<h3 align="center">I'm a Software Developer (and also an Aeronautical Engineer) </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif-eskici&title=Repository&title=Commit" alt="arif-eskici" /></a> </p>
 
