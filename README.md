@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arif-eskici-90a70b19a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arif-eskici-90a70b19a" height="30" width="40" /></a>
 <a href="https://hackerrank.com/arif_eskici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arif-eskici" height="45" width="55" /></a>
+<a href="mailto:aaema4@gmail.com"><img align="center" alt="Arif Eskici | Gmail" width="35" height="35" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +27,9 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+
+----
+ ![](https://visitor-badge.glitch.me/badge?page_id=arif-eskici)
+ 
+:star: From [Arif Eskici](https://github.com/arif-eskici/) 
