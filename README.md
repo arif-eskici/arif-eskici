@@ -30,6 +30,7 @@
 
 
 ----
- ![](https://visitor-badge.glitch.me/badge?page_id=arif-eskici)
+ ![](https://visitor-badge.glitch.me/badge?page_id=arif-eskici)    
+ [![HitCount](https://hits.dwyl.com/arif-eskici/arif-eskici.svg?style=flat-square)](http://hits.dwyl.com/arif-eskici/arif-eskici)
  
 :star: From [Arif Eskici](https://github.com/arif-eskici/) 
