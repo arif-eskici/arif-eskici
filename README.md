@@ -29,8 +29,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 
-----
- ![](https://visitor-badge.glitch.me/badge?page_id=arif-eskici)    
+---- 
  [![HitCount](https://hits.dwyl.com/arif-eskici/arif-eskici.svg?style=flat-square)](http://hits.dwyl.com/arif-eskici/arif-eskici)
  
 :star: From [Arif Eskici](https://github.com/arif-eskici/) 
