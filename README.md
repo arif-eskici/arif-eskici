@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arif-eskici-90a70b19a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arif-eskici-90a70b19a" height="30" width="40" /></a>
 <a href="https://hackerrank.com/arif_eskici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arif-eskici" height="45" width="55" /></a>
-<a href="mailto:aaema4@gmail.com"><img align="center" alt="Arif Eskici | Gmail" width="35" height="35" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
+<a href="mailto:arif.eskici43@gmail.com"><img align="center" alt="Arif Eskici | Gmail" width="35" height="35" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
