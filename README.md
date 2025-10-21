@@ -3,9 +3,10 @@
 
 <h3 align="center">I'm a Software Developer (and also an Aeronautical Engineer) </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif-eskici&title=Repository&title=Commit" alt="arif-eskici" /></a> </p>
 
 - 🌱 I’m currently working **Java Programming Language** and **Spring Boot**
+  
+- 🌱 I have experience microservices for high-traffic systems 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
