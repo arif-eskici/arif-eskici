@@ -30,6 +30,7 @@
 
 
 ---- 
- [![HitCount](https://hits.dwyl.com/arif-eskici/arif-eskici.svg?style=flat-square)](http://hits.dwyl.com/arif-eskici/arif-eskici)
+
+ [![Github visitors](https://komarev.com/ghpvc/?username=arif-eskici)](https://github.com/arif-eskici)
  
 :star: From [Arif Eskici](https://github.com/arif-eskici/) 
